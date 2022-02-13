@@ -1,11 +1,11 @@
-## Welcome to GitHub Pages
+## Proyecto: Análisis Covid-19
 
-You can use the [editor on GitHub](https://github.com/DiegoSalado/proyecto-mcd/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Este repositorio es parte de la actividad *Descargando y analizando los datos de COVID* del curso propedéutico de **Herramientas de productividad par la Ciencia de Datos** por parte de la Universidad de Sonora.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+En este proyecto se realizó un análisis de los datos de la Secretaria de Salud sobre pruebas de Covid-19.
+Para dicho trabajo se utilizó unicamente la información correspondiente a los casos positivos del estado de Zacatecas.
 
-### Markdown
-
+### 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
