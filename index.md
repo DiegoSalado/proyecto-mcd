@@ -5,33 +5,21 @@ Este repositorio es parte de la actividad *Descargando y analizando los datos de
 En este proyecto se realizó un análisis de los datos de la Secretaria de Salud sobre pruebas de Covid-19.
 Para dicho trabajo se utilizó unicamente la información correspondiente a los casos positivos del estado de Zacatecas.
 
-### 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Implementación
 
-### Jekyll Themes
+Para obtener los datos utilizados en este trabajo es necesario descargar el contenido de la carpeta [***archivos/***] (https://github.com/DiegoSalado/proyecto-mcd/tree/main/archivos) en la cual se encuentra un Dockerfile y un script de shell. Una vez con estos archivos descargados en la misma dirección, es necesario crear un conteneodr usando el Dockerfile.
+```   
+$ docker build -t username/bash-curso .
+```
+El Dockerfile capiará el script shell dentro del nuevo contenedor basado en ubuntu, este script automáticamnete relizará las siguientes acciones:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DiegoSalado/proyecto-mcd/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Descargar las actualizacones y progrmas necesarios para la obtención y limpieza de los datos.
+- Descarar la base de datos sobre Covid-19 de los [Datos Abiertos Dirección General de Epidemiología](https://www.gob.mx/salud/documentos/datos-abiertos-152127).
+- Generar un documento *positivosZac.csv* que contiene unicamente los datos correspondientes a casos positivos del estado de Zacatecas. 
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
