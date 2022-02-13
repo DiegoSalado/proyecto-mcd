@@ -1,1 +1,1 @@
-# proyecto-mcd
+# Proyecto: Análisis Covid-19
