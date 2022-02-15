@@ -11,7 +11,7 @@ Para este trabajo se utilizó unicamente la información correspondiente a los c
 
 ### Resultados
 
-### Pregunta 1
+#### Pregunta 1
 53.95% de los hombres han fallecido por Covid-10 después de ser hospitalizados, mientres que en las mujeres ha sido un 46.27%. 
 
 ![HM](https://github.com/DiegoSalado/proyecto-mcd/blob/main/HM.png?raw=true)
@@ -21,7 +21,7 @@ Por otro lado el 80.17% de la mujeres hospitalizadas tienen cuando menos una enf
 ![HMR](https://github.com/DiegoSalado/proyecto-mcd/blob/main/HMR.png?raw=true)
 
 
-### Pregunta 2
+#### Pregunta 2
 30.97% de los pacinetes hospitalizados en servivios privados fallecieron, 16% menos que los hospitalizados hospitalizadas en servicios públicos donde falleció el 46.42%.
 
 ![PF](https://github.com/DiegoSalado/proyecto-mcd/blob/main/PF.png?raw=true)
@@ -32,7 +32,7 @@ Sin embargo, el porcentaje de pacientes que tienen cuando menos una enfermedad d
 
 *La obtención de estos datos se encuentren en el notebook [Covid-19.ipynb](https://github.com/DiegoSalado/proyecto-mcd/blob/main/datos/Covid-19.ipynb)*
 
-### Implementación
+#### Implementación
 
 Para obtener los datos utilizados en este trabajo es necesario descargar el contenido de la carpeta [***archivos/***](https://github.com/DiegoSalado/proyecto-mcd/tree/main/archivos) en la cual se encuentra un Dockerfile y un script de shell. Una vez con estos archivos descargados en la misma dirección, es necesario crear un conteneodr usando el Dockerfile.
 ```   
