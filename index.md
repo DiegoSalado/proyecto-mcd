@@ -12,17 +12,17 @@ Para este trabajo se utilizó unicamente la información correspondiente a los c
 ### Resultados
 
 #### Pregunta 1
-53.95% de los hombres han fallecido por Covid-10 después de ser hospitalizados, mientras que en las mujeres ha sido un 46.27%. 
+53.95% de los hombres hospitalizados por Covid-10 han fallecido, mientras que en las mujeres ha sido un 46.27%. 
 
 ![HM](https://github.com/DiegoSalado/proyecto-mcd/blob/main/HM.png?raw=true)
 
-Por otro lado el 80.17% de la mujeres hospitalizadas tienen cuando menos una enfermedad de riesgo, casi 10% más que los hombres con un 72.60%.
+Contrastando con el hecho de que el 80.17% de la mujeres hospitalizadas han presentado cuando menos una enfermedad de riesgo, casi 10% más que los hombres con un 72.60%.
 
 ![HMR](https://github.com/DiegoSalado/proyecto-mcd/blob/main/HMR.png?raw=true)
 
 
 #### Pregunta 2
-30.97% de los pacinetes hospitalizados en servivios privados fallecieron, 16% menos que los hospitalizados en servicios públicos donde falleció el 46.42%.
+30.97% de los pacinetes hospitalizados en servivios privados han fallecido, 16% menos que los hospitalizados en servicios públicos donde falleció el 46.42%.
 
 ![PF](https://github.com/DiegoSalado/proyecto-mcd/blob/main/PF.png?raw=true)
 
