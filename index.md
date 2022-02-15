@@ -13,21 +13,21 @@ Para este trabajo se utilizó unicamente la información correspondiente a los c
 
 ### Pregunta 1
 53.95% de los hombres han fallecido por Cocid-10 después de hospitalizados, mientres que en las mujeres ha sido un 46.27%. 
-![HM](https://github.com/DiegoSalado/proyecto-mcd/blob/main/HM.PNG)
+![HM](https://github.com/DiegoSalado/proyecto-mcd/blob/main/HM.png?raw=true)
 
 Por otro lado el 80.17% de la mujeres hospitalizadas tienen cuando menos una enfermedad de riesgo, casi 10% más que los hombres con un 72.60%.
 
-![HMR](https://github.com/DiegoSalado/proyecto-mcd/blob/main/HMR.PNG)
+![HMR](https://github.com/DiegoSalado/proyecto-mcd/blob/main/HMR.png?raw=true)
 
 
 ### Pregunta 2
 30.97% de los pacinetes hospitalizados en servivios privados fallecieron, 16% menos que los hospitalizados hospitalizadas en servicios públicos donde falleció el 46.42%.
 
-![PF](https://github.com/DiegoSalado/proyecto-mcd/blob/main/PF.PNG)
+![PF](https://github.com/DiegoSalado/proyecto-mcd/blob/main/PF.png?raw=true)
 
 Sin embargo el porcentaje de pacientese que tienen cuando menos una enfermedad de riesgo en estos grupos es casi el mismo, 69.03% en privados y 71.69% en públicos.
 
-![PR](https://github.com/DiegoSalado/proyecto-mcd/blob/main/PR.PNG)
+![PR](https://github.com/DiegoSalado/proyecto-mcd/blob/main/PR.png?raw=true)
 
 *La obtención de estos datos se encuentren en el notebook [Covid-19.ipynb](https://github.com/DiegoSalado/proyecto-mcd/blob/main/datos/Covid-19.ipynb)*
 
