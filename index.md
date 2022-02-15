@@ -13,6 +13,7 @@ Para este trabajo se utilizó unicamente la información correspondiente a los c
 
 ### Pregunta 1
 53.95% de los hombres han fallecido por Cocid-10 después de hospitalizados, mientres que en las mujeres ha sido un 46.27%. 
+
 ![HM](https://github.com/DiegoSalado/proyecto-mcd/blob/main/HM.png?raw=true)
 
 Por otro lado el 80.17% de la mujeres hospitalizadas tienen cuando menos una enfermedad de riesgo, casi 10% más que los hombres con un 72.60%.
