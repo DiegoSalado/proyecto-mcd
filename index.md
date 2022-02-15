@@ -40,7 +40,7 @@ $ docker build -t username/bash-curso .
 ```
 El Dockerfile copiará el script shell dentro del nuevo contenedor basado en ubuntu, este script automáticamnete relizará las siguientes acciones:
 
-- Descargar las actualizacones y progrmas necesarios para la obtención y limpieza de los datos.
+- Descargar las actualizacones y programas necesarios para la obtención y limpieza de los datos.
 - Descarar la base de datos sobre Covid-19 de los [Datos Abiertos Dirección General de Epidemiología](https://www.gob.mx/salud/documentos/datos-abiertos-152127).
-- Generar un documento *positivosZac.csv* que contiene únicamente los datos correspondientes a casos positivos del Etado de Zacatecas. 
+- Generar un documento **positivosZac.csv** que contiene únicamente los datos correspondientes a casos positivos del Etado de Zacatecas. 
 
