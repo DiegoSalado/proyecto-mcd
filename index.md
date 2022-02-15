@@ -34,7 +34,7 @@ Sin embargo, el porcentaje de pacientes que tienen cuando menos una enfermedad d
 
 #### Implementación
 
-Para obtener los datos utilizados en este trabajo es necesario descargar el contenido de la carpeta [***archivos/***](https://github.com/DiegoSalado/proyecto-mcd/tree/main/archivos) en la cual se encuentra un Dockerfile y un script de shell. Una vez con estos archivos descargados en la misma dirección, es necesario crear un conteneodr usando el Dockerfile.
+Para obtener los datos utilizados en este trabajo es necesario descargar el contenido de la carpeta [***archivos/***](https://github.com/DiegoSalado/proyecto-mcd/tree/main/archivos) en la cual se encuentra un Dockerfile y un script de shell. Una vez con estos archivos descargados en la misma dirección, es necesario crear un contenedor usando el Dockerfile.
 ```   
     $ docker build -t username/imagen .
     $ docker run -it --name name username/imagen
