@@ -12,7 +12,7 @@ Para este trabajo se utilizó unicamente la información correspondiente a los c
 ### Resultados
 
 ### Pregunta 1
-53.95% de los hombres han fallecido por Covid-10 después de hospitalizados, mientres que en las mujeres ha sido un 46.27%. 
+53.95% de los hombres han fallecido por Covid-10 después de ser hospitalizados, mientres que en las mujeres ha sido un 46.27%. 
 
 ![HM](https://github.com/DiegoSalado/proyecto-mcd/blob/main/HM.png?raw=true)
 
