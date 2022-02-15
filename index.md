@@ -22,7 +22,7 @@ Por otro lado el 80.17% de la mujeres hospitalizadas tienen cuando menos una enf
 
 
 #### Pregunta 2
-30.97% de los pacinetes hospitalizados en servivios privados fallecieron, 16% menos que los hospitalizados hospitalizadas en servicios públicos donde falleció el 46.42%.
+30.97% de los pacinetes hospitalizados en servivios privados fallecieron, 16% menos que los hospitalizados en servicios públicos donde falleció el 46.42%.
 
 ![PF](https://github.com/DiegoSalado/proyecto-mcd/blob/main/PF.png?raw=true)
 
