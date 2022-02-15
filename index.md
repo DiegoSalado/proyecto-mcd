@@ -7,12 +7,12 @@ Para este trabajo se utilizó unicamente la información correspondiente a los c
 
 - ¿Qué porcentaje de mujeres y qué porcentaje de hombres facellecen después de ser hospitalizados por Covid-19? ¿Qué porcentaje de mujeres y qué porcentaje de hombres hospitalizados tienen cuando menos una enfermedad de riesgo?
 
-- ¿Qué porcentaje de pacientes facellecen después de ser hospitalizados por Covid-19 en hospitales públicos y que porcentaje en hospitales privados? ¿Qué porcentaje de pacientes hospitalizados por Covid-19 tienen cuanso menos una enfermedad de riesgo en hospitales públicos y que porcentaje en hospitales privados?
+- ¿Qué porcentaje de pacientes facellecen después de ser hospitalizados por Covid-19 en hospitales públicos y que porcentaje en hospitales privados? ¿Qué porcentaje de pacientes hospitalizados por Covid-19 tienen cuansd menos una enfermedad de riesgo en hospitales públicos y que porcentaje en hospitales privados?
 
 ### Resultados
 
 ### Pregunta 1
-53.95% de los hombres han fallecido por Cocid-10 después de hospitalizados, mientres que en las mujeres ha sido un 46.27%. 
+53.95% de los hombres han fallecido por Covid-10 después de hospitalizados, mientres que en las mujeres ha sido un 46.27%. 
 
 ![HM](https://github.com/DiegoSalado/proyecto-mcd/blob/main/HM.png?raw=true)
 
@@ -26,7 +26,7 @@ Por otro lado el 80.17% de la mujeres hospitalizadas tienen cuando menos una enf
 
 ![PF](https://github.com/DiegoSalado/proyecto-mcd/blob/main/PF.png?raw=true)
 
-Sin embargo el porcentaje de pacientese que tienen cuando menos una enfermedad de riesgo en estos grupos es casi el mismo, 69.03% en privados y 71.69% en públicos.
+Sin embargo, el porcentaje de pacientes que tienen cuando menos una enfermedad de riesgo en estos grupos es casi el mismo, 69.03% en privados y 71.69% en públicos.
 
 ![PR](https://github.com/DiegoSalado/proyecto-mcd/blob/main/PR.png?raw=true)
 
@@ -38,9 +38,9 @@ Para obtener los datos utilizados en este trabajo es necesario descargar el cont
 ```   
 $ docker build -t username/bash-curso .
 ```
-El Dockerfile capiará el script shell dentro del nuevo contenedor basado en ubuntu, este script automáticamnete relizará las siguientes acciones:
+El Dockerfile copiará el script shell dentro del nuevo contenedor basado en ubuntu, este script automáticamnete relizará las siguientes acciones:
 
 - Descargar las actualizacones y progrmas necesarios para la obtención y limpieza de los datos.
 - Descarar la base de datos sobre Covid-19 de los [Datos Abiertos Dirección General de Epidemiología](https://www.gob.mx/salud/documentos/datos-abiertos-152127).
-- Generar un documento *positivosZac.csv* que contiene unicamente los datos correspondientes a casos positivos del estado de Zacatecas. 
+- Generar un documento *positivosZac.csv* que contiene únicamente los datos correspondientes a casos positivos del Etado de Zacatecas. 
 
