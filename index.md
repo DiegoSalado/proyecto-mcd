@@ -7,7 +7,7 @@ Para este trabajo se utilizó unicamente la información correspondiente a los c
 
 - ¿Qué porcentaje de mujeres y qué porcentaje de hombres hospitalizados por Covid-19 fallecen? ¿Qué porcentaje de mujeres y qué porcentaje de hombres hospitalizados tienen cuando menos una enfermedad de riesgo?
 
-- ¿Qué porcentaje de los pacientes hospitalizados por Covid-19 fallecen en hospitales públicos y que porcentaje en hospitales privados? ¿Qué porcentaje de pacientes hospitalizados por Covid-19 tienen cuando menos una enfermedad de riesgo en hospitales públicos y que porcentaje en hospitales privados?
+- ¿Qué porcentaje de los pacientes hospitalizados por Covid-19 en hospitales públicos fallecen y cuál es el porcentaje en hospitales privados? ¿Qué porcentaje de pacientes hospitalizados por Covid-19 tienen cuando menos una enfermedad de riesgo en hospitales públicos y que porcentaje en hospitales privados?
 
 ### Resultados
 
