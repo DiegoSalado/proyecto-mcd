@@ -5,9 +5,9 @@ Este repositorio es parte de la actividad *Descargando y analizando los datos de
 Los datos usados forman parte de la base de datos de la Secretaría de Salud sobre pruebas de Covid-19.
 Para este trabajo se utilizó unicamente la información correspondiente a los casos positivos del Estado de Zacatecas. Para el cual se trataron de resolver las siguiente preguntas:
 
-- ¿Qué porcentaje de mujeres y qué porcentaje de hombres facellecen después de ser hospitalizados por Covid-19? ¿Qué porcentaje de mujeres y qué porcentaje de hombres hospitalizados tienen cuando menos una enfermedad de riesgo?
+- ¿Qué porcentaje de mujeres y qué porcentaje de hombres hospitalizados por Covid-19 fallecen? ¿Qué porcentaje de mujeres y qué porcentaje de hombres hospitalizados tienen cuando menos una enfermedad de riesgo?
 
-- ¿Qué porcentaje de pacientes facellecen después de ser hospitalizados por Covid-19 en hospitales públicos y que porcentaje en hospitales privados? ¿Qué porcentaje de pacientes hospitalizados por Covid-19 tienen cuansd menos una enfermedad de riesgo en hospitales públicos y que porcentaje en hospitales privados?
+- ¿Qué porcentaje de pacientes hospitalizados por Covid-19 fallecen en hospitales públicos y que porcentaje en hospitales privados? ¿Qué porcentaje de pacientes hospitalizados por Covid-19 tienen cuando menos una enfermedad de riesgo en hospitales públicos y que porcentaje en hospitales privados?
 
 ### Resultados
 
