@@ -30,7 +30,7 @@ Sin embargo, el porcentaje de pacientes que tienen cuando menos una enfermedad d
 
 ![PR](https://github.com/DiegoSalado/proyecto-mcd/blob/main/PR.png?raw=true)
 
-*La obtención de estos datos se encuentren en el notebook [Covid-19.ipynb](https://github.com/DiegoSalado/proyecto-mcd/blob/main/datos/Covid-19.ipynb).*
+*La obtención de los resultados se encuentran en el notebook [Covid-19.ipynb](https://github.com/DiegoSalado/proyecto-mcd/blob/main/datos/Covid-19.ipynb).*
 
 #### Implementación
 
