@@ -42,6 +42,6 @@ Para obtener los datos utilizados en este trabajo es necesario descargar el cont
 El Dockerfile copiará el script shell dentro del nuevo contenedor basado en ubuntu, este script automáticamnete relizará las siguientes acciones:
 
 - Descargar las actualizaciones y programas necesarios para la obtención y limpieza de los datos.
-- Descarar la base de datos sobre Covid-19 de la [Dirección General de Epidemiología](https://www.gob.mx/salud/documentos/datos-abiertos-152127).
+- Descargar la base de datos sobre Covid-19 de la [Dirección General de Epidemiología](https://www.gob.mx/salud/documentos/datos-abiertos-152127).
 - Generar un documento **positivosZac.csv** que contiene únicamente los datos correspondientes a casos positivos del Etado de Zacatecas. 
 
