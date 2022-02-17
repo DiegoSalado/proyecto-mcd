@@ -22,7 +22,7 @@ Contrastando con el hecho de que el 80.17% de la mujeres hospitalizadas han pres
 
 
 #### Pregunta 2
-30.97% de los pacientes hospitalizados en servicios privados han fallecido, 16% menos que los hospitalizados en servicios públicos donde falle un 46.42%.
+30.97% de los pacientes hospitalizados en servicios privados han fallecido, 16% menos que los hospitalizados en servicios públicos donde fallece un 46.42%.
 
 ![PF](https://github.com/DiegoSalado/proyecto-mcd/blob/main/PF.png?raw=true)
 
