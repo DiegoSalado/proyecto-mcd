@@ -43,5 +43,5 @@ El Dockerfile copiará el script shell dentro del nuevo contenedor basado en ubu
 
 - Descargar las actualizaciones y programas necesarios para la obtención y limpieza de los datos.
 - Descargar la base de datos sobre Covid-19 de la [Dirección General de Epidemiología](https://www.gob.mx/salud/documentos/datos-abiertos-152127).
-- Generar un documento **positivosZac.csv** que contiene únicamente los datos correspondientes a casos positivos del Etado de Zacatecas. 
+- Generar un documento **positivosZac.csv** que contiene únicamente los datos correspondientes a casos positivos del Estado de Zacatecas. 
 
