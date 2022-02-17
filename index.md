@@ -1,6 +1,6 @@
 ## Proyecto: Análisis Covid-19
 
-Este repositorio es parte de la actividad *Descargando y analizando los datos de COVID* del curso propedéutico de **Herramientas de productividad par la Ciencia de Datos** por parte de la Universidad de Sonora. La finalidad de esta actividad es mostrar el manejo del contenido del curso atrvés del análisis de datos sobre Covid-19 en México.
+Este repositorio es parte de la actividad *Descargando y analizando los datos de COVID* del curso propedéutico de **Herramientas de productividad para la Ciencia de Datos** por parte de la Universidad de Sonora. La finalidad de esta actividad es mostrar el manejo del contenido del curso atrvés del análisis de datos sobre Covid-19 en México.
 
 Los datos usados forman parte de la base de datos de la Secretaría de Salud sobre pruebas de Covid-19.
 Para este trabajo se utilizó unicamente la información correspondiente a los casos positivos del Estado de Zacatecas. Para el cual se trataron de resolver las siguiente preguntas:
