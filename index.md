@@ -39,7 +39,7 @@ Para obtener los datos utilizados en este trabajo es necesario descargar el cont
     $ docker build -t username/imagen .
     $ docker run -it --name name username/imagen
 ```
-El Dockerfile copiará el script shell dentro del nuevo contenedor basado en ubuntu, este script automáticamnete relizará las siguientes acciones:
+El Dockerfile copiará el script shell dentro del nuevo contenedor basado en ubuntu, este script automáticamente relizará las siguientes acciones:
 
 - Descargar las actualizaciones y programas necesarios para la obtención y limpieza de los datos.
 - Descargar la base de datos sobre Covid-19 de la [Dirección General de Epidemiología](https://www.gob.mx/salud/documentos/datos-abiertos-152127).
