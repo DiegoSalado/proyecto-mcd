@@ -3,5 +3,5 @@
  
  Este es un pequeño análisis de mortalidad de sectores poblacionales en la entidad de Zacatecas debido al Covid-19.
  
- [https://diegosalado.github.io/proyecto-mcd/](Resultados)
+ [Resultados](https://diegosalado.github.io/proyecto-mcd/)
  
